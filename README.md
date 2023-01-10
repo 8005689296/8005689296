@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ritik Khandelwal
-- 👀 I’m interested in java script, c, c++, React,Html,Css,Mysql, blockchain
+- 👀 I’m interested in java script, node js,mongodb, express, React,Html,Css,Mysql, blockchain.
 - 🌱 I’m currently learning training in almabetter
 - 💞️ I’m looking to collaborate on Polygon
 - 📫 How to reach me linkdlin
